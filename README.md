@@ -4,8 +4,6 @@ Hi, I'm Clifford Wilson. I am a software developer passionate about **backend ar
 - 💬 **Ask me about:** Python, System Design, and Web3
 - 📚 **Currently Reading:** The Almanack of Naval Ravikant
 
----
-
 <div align="center">
   <br/>
   <a href="mailto:cliffordwilsonk@gmail.com">
